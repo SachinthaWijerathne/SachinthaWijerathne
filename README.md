@@ -38,7 +38,7 @@
 
 ## 📌 Featured Projects  
 
-- 📱 **Small Tea Estate Manager** – Mobile app for small estate owners to track harvest, expenses, and income.  
+- 📱 **Small Tea Estate Manager** – Mobile app and Web system for small estate owners to track harvest, expenses, and income.
 - ⚡ **Utility Monitoring App** – Mobile app for domestic users to monitor their utility usage.  
 - 🎮 **Nuke Of Kaos - v1** – Website for promoting a gaming clan.  
 - 🎮 **Nuke Of Kaos - v2** – Complete web system to monitor, showcase players, and promote the gaming clan.  
