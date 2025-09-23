@@ -1,9 +1,38 @@
-- 👋 Hi, I’m @SachinthaWijerathne
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning In Higher Studies
-- 📫 How to reach me from SLSACHIBOY youtube channel
+# 👋 Hi, I'm Sachintha
 
-<!---
-SachinthaWijerathne/SachinthaWijerathne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full-stack developer | 🌱 Tea estate owner | 💡 Always learning
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Fresh graduate in Computer Science, diving deep into real-world projects.  
+- 🌱 Currently building **Small Tea Estate Manager** – an app to help small tea estate owners manage their land, harvests, and income.  
+- 🛠 Exploring **Expo / React Native**, **Node.js**, **MongoDB**, and **Docker**.  
+- ☁️ Interested in serverless architectures, automation, and scalable systems.  
+- 🧑‍🌾 Combining my background as a tea estate owner with software engineering to solve real problems.  
+
+---
+
+### 🧰 Tech Stack
+- **Frontend:** React, React Native, Expo, TypeScript  
+- **Backend:** Node.js, Express, MongoDB  
+- **DevOps / Tools:** Docker, Git, EAS (Expo Application Services)  
+- **Other:** Figma, Penpot, self-hosting experiments  
+
+---
+
+### 📌 Projects
+- 📱 **Small Tea Estate Manager** – Mobile app for small estate owners to track harvest, expenses, and income.  
+- 🤖 **Telegram Bot Experiments** – Learning how bots can act as lightweight, serverless APIs.  
+- 🛠 **Self-hosting Tools** – Exploring Penpot, Figma alternatives, and containerized apps.  
+
+---
+
+### 📫 Connect with Me
+- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+- LinkedIn: *(add link if you want)*  
+- Email: *(add your contact)*  
+
+---
+
+⭐️ *"Blending code and cultivation — building apps that grow with purpose."*
