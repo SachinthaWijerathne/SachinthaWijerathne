@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sachintha
 
-🚀 Full-stack developer | 🌱 Tea estate owner | 💡 Always learning
+🚀 Full-stack developer | 🚀 Mobile app developer | 💡 Always learning
 
 ---
 
@@ -9,7 +9,6 @@
 - 🌱 Currently building **Small Tea Estate Manager** – an app to help small tea estate owners manage their land, harvests, and income.  
 - 🛠 Exploring **Expo / React Native**, **Node.js**, **MongoDB**, and **Docker**.  
 - ☁️ Interested in serverless architectures, automation, and scalable systems.  
-- 🧑‍🌾 Combining my background as a tea estate owner with software engineering to solve real problems.  
 
 ---
 
@@ -23,15 +22,16 @@
 
 ### 📌 Projects
 - 📱 **Small Tea Estate Manager** – Mobile app for small estate owners to track harvest, expenses, and income.  
-- 🤖 **Telegram Bot Experiments** – Learning how bots can act as lightweight, serverless APIs.  
-- 🛠 **Self-hosting Tools** – Exploring Penpot, Figma alternatives, and containerized apps.  
+- 🤖 **Utility Monitoring App** – Mobile app for domestic users to monitor their utility usage  
+- 🛠 **Nuke Of Kaos - v1** – Web site for promote gaming clan.
+- 🛠 **Nuke Of Kaos - v2** - Complete web system to monitor ,showcase players and promote the gaming clan.
 
 ---
 
 ### 📫 Connect with Me
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
-- LinkedIn: *(add link if you want)*  
-- Email: *(add your contact)*  
+- GitHub: [github.com/SachinthaWijerathne](https://github.com/SachinthaWijerathne)  
+- LinkedIn: soon ...
+- Email: [sachintha2112@gmail.com](sachintha2112@gmail.com)
 
 ---
 
