@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me  
 - 🎓 Fresh Computer Science graduate diving into real-world projects.  
 - 🌱 Currently building **Small Tea Estate Manager** – an app to help small tea estate owners manage their land, harvests, and income.  
-- 🛠 Exploring **Expo / React Native**, **Node.js**, **MongoDB**, and **Docker**.  
+- 🛠 Exploring **Expo / React Native**,**Flutter**, **Node.js**, **MongoDB**, and **Docker**.  
 - ☁️ Passionate about **serverless architectures**, **automation**, and **scalable systems**.  
 
 ---
@@ -19,6 +19,8 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)  
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
@@ -39,8 +41,7 @@
 ## 📌 Featured Projects  
 
 - 📱 **Small Tea Estate Manager** – Mobile app and Web system for small estate owners to track harvest, expenses, and income.
-- ⚡ **Utility Monitoring App** – Mobile app for domestic users to monitor their utility usage.  
-- 🎮 **Nuke Of Kaos - v1** – Website for promoting a gaming clan.  
+- 🎮 **Nuke Of Kaos** – Website for promoting a gaming clan.  
 - 🎮 **Nuke Of Kaos - v2** – Complete web system to monitor, showcase players, and promote the gaming clan.  
 
 ---
@@ -49,7 +50,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SachinthaWijerathne)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sachintha2112@gmail.com)  
-*(LinkedIn coming soon...)*  
+
 
 ---
 
