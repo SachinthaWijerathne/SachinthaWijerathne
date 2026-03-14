@@ -6,9 +6,13 @@
 
 ## 👨‍💻 About Me  
 - 🎓 Fresh Computer Science graduate diving into real-world projects.  
-- 🌱 Currently building **Small Tea Estate Manager** – an app to help small tea estate owners manage their land, harvests, and income.  
 - 🛠 Exploring **Expo / React Native**,**Flutter**, **Node.js**, **MongoDB**, and **Docker**.  
 - ☁️ Passionate about **serverless architectures**, **automation**, and **scalable systems**.  
+
+---
+
+## Built Apps
+- GPA CALCULATOR android mobile app - https://github.com/SachinthaWijerathne/gpa_calculator.git
 
 ---
 
@@ -20,6 +24,7 @@
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
 
 
 **Backend:**  
